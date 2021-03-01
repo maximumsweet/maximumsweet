@@ -1,4 +1,1 @@
-<img 
-  src="https://disk.yandex.ru/i/_FUuFBg38BCcVg" 
-  alt="“Rick and Morty”, created by Justin Roiland and Dan Harmon. 2017; USA: Adult Swim" 
-  title="“Rick and Morty”, created by Justin Roiland and Dan Harmon. 2017; USA: Adult Swim" />
+![Alt-текст](https://avatars1.githubusercontent.com/u/5384215?v=3&s=460 "Орк")
